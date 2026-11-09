@@ -96,7 +96,7 @@ namespace Capirig_Week05_Work04
             if (cmbCategory.SelectedIndex == -1)
             {
                 MessageBox.Show("Please select a category.");
-                cmbCategory.Focus();
+                cmbCategory.Focus();s
                 return;
             }
 
